@@ -2,9 +2,10 @@
 
 Equipo:
 
-* Atzin Viridiana 22887024
-* Mauricio Zavala 22887047
-* Ángel Gabriel
-
+* Atzin Viridiana Escobar Gomez 22887024
+* Mauricio Zavala Avendaño 22887047
+* Ángel Gabriel Perez Meza 22887001
+* Julian Martinez Alvarez 22887009
+* Valentin Antonio Carrillo vazquez 22887016
   
   
